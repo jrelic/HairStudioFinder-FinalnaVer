@@ -29,9 +29,6 @@ Zatim nakon odabira salona nudi mu se mogućnost odabira frizera kod kojeg se ž
 termina kod istog. Ako je korisnik aplikacije ulogiran kao vlasnik salona, onda mu se nudi mogućnost dodavanja ili brisanja
 frizera unutar salona, te uvid u zakazane termine kod svakog od frizera
 
-# NAPOMENA ZA BETA VERZIJU
-Jos uvijek radimo na komponenti za zakazivanje termina, pa se unutar ove verzije aplikacije zakazivanje neće moći izvršiti.
-Također moramo napraviti da pretraga salona po gradu kada smo ulogirani kao korisnik salona bude case insensitive
 
 # članovi tima
 Josip Relić 
